@@ -2,12 +2,11 @@
 
 - 🔭 Atualmente estou trabalhando no iFood, uma das maiores empresas de técnologia da América Latina!
 
-<img loading="lazy" src="https://logopng.com.br/logo/ifood-43" width="60" height="50"/>
+<img loading="lazy" src="file:///C:/Users/Fernando/Downloads/ifood.svg" width="100" height="50"/>
 
 - 🌱 Estou aprendendo prgramação para mudar de área.
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 
 <!--
 **Fesilvaea/Fesilvaea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
